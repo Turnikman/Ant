@@ -70,4 +70,7 @@
     nbproject/build-impl.xml file. 
 
     -->
+     <target name="call">
+        <echo> Hello World! </echo>
+    </target>
 </project>
