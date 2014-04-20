@@ -1,7 +1,7 @@
 <project name="Ant" default="build">
 
 <target name="build">
-	<echo message="Hello Ant"/>
+	<echo message="Hello Ant gfhfghfghf"/>
 </target>
 
 </project>
